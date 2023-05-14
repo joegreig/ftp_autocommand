@@ -1,0 +1,14 @@
+input {
+    width : 15%;
+    margin: 4px 0;
+}
+
+input:focus {
+    background-color: rgb(220,220,220);
+}
+
+select {
+    width: 15%; 
+    margin: 4px 0;
+}
+
