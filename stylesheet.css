@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(246,248,250);
+}
+
 input {
     width : 15%;
     margin: 4px 0;
