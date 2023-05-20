@@ -1,2 +1,2 @@
 # ftp_autocommand
-A simple UI to generated FTP / SFTP commands
+A simple UI to generate FTP / SFTP commands
